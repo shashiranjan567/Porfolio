@@ -112,8 +112,8 @@ const About: React.FC = () => {
             </div>
             <ul className="space-y-4">
               <li>
-                <h4 className="font-semibold">Frontend Developer</h4>
-                <p className="text-text-secondary">Appkul Tech Solution • 10-2024 - 12-2025</p>
+                <h4 className="font-semibold">Full Stack Developer</h4>
+                <p className="text-text-secondary">Samurai • 07-2025 - 08-2025</p>
               </li>
             </ul>
           </GlassCard>

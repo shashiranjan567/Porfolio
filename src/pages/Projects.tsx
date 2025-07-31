@@ -24,7 +24,7 @@ const Projects: React.FC = () => {
       description: 'StudyRiser is an educational web platform designed to help students access study materials and resources easily. Built with HTML ,CSS, and JavaScript  it offers a user-friendly interface for effective learning.',
       image: 'studyriser.jpg',
       tags: ['React', 'Node.js', 'Solidity', 'IPFS', 'Polygon', ],
-      liveUrl: 'https://example.com',
+      liveUrl: 'https://studyriser.vercel.app/',
       githubUrl: 'https://github.com/shashiranjan567/Studyriser',
     },
     {
@@ -49,8 +49,8 @@ const Projects: React.FC = () => {
       description: 'My portfolio highlights my web development, machine learning projects, along with open-source contributions. It includes case studies, live demos, and GitHub repositories demonstrating my technical expertise.',
       image: 'https://images.unsplash.com/photo-1545665277-5937489579f2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80',
       tags: ['React', 'Framer Motion','FormSpree', 'Tailwind CSS'],
-      liveUrl: 'https://portfolio-rajiv-kumar.vercel.app/',
-      githubUrl: 'https://github.com/iwanturequity/portfolio',
+      liveUrl: 'https://porfolio-three-gold.vercel.app/',
+      githubUrl: 'https://github.com/shashiranjan567/Porfolio',
     },
     
   ];
