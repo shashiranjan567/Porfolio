@@ -45,7 +45,7 @@ const Home: React.FC = () => {
       description: 'StudyRiser is an educational web platform designed to help students access study materials and resources easily. Built with  HTML,CSS, and JavaScript, it offers a user-friendly interface for effective learning.',
       image: 'studyriser.jpg',
       tags: ['React', 'Node.js', 'Solidity', 'IPFS', 'Polygon', ],
-      liveUrl: 'https://example.com',
+      liveUrl: 'https://studyriser.vercel.app/',
       githubUrl: 'https://github.com/shashiranjan567/Studyriser',
     },
     {
